@@ -8,3 +8,6 @@ and calculating the rate and jerk of the production graph, only the first call a
 
 If zonnepanelendelen is watching: It would be very nice to have an API endpoint to fetch actual production stats, or 
 maybe a webhook called when a measurement is updated?
+
+## Update 2021-04-06
+Unfortunately the widget seems not to be working anymore. The [page](https://mijnstroom.zonnepanelendelen.nl/deelnemer/gegevens/productiewidget/) where you could activate it has been hidden for a while but now the widget no longer shows any data and this scraper doesn't work anymore.
